@@ -1,7 +1,7 @@
 ## django-echarts:
 
 ## 概述</br> 
-         基于 Django 1.10.6 框架，借助 Echarts 前端数据可视化。 
+         - 基于 Django 1.10.6 框架，借助 Echarts 前端数据可视化。 
 ***
 ## 使用</br>
          - 使用Python版本 ：python3.5+ 
